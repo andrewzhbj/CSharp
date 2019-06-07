@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\Federico\Federico\bin\Debug\Federico.exe.config
+C:\Users\Andrew\Desktop\Federico\Federico\bin\Debug\Federico.exe
+C:\Users\Andrew\Desktop\Federico\Federico\bin\Debug\Federico.pdb
+C:\Users\Andrew\Desktop\Federico\Federico\obj\Debug\Federico.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Federico\Federico\obj\Debug\Federico.Properties.Resources.resources
+C:\Users\Andrew\Desktop\Federico\Federico\obj\Debug\Federico.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\Federico\Federico\obj\Debug\Federico.exe
+C:\Users\Andrew\Desktop\Federico\Federico\obj\Debug\Federico.pdb
+C:\Users\Andrew\Desktop\Federico\Federico\obj\Debug\Federico.Form1.resources
