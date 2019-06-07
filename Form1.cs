@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Federico
 {
-    public partial class Form1 : Form
+    public partial class Forma : Form
     {
-        public Form1()
+        public Forma()
         {
             InitializeComponent();
         }

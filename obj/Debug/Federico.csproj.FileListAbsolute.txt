@@ -7,3 +7,10 @@ C:\Users\Andrew\Desktop\Federico\Federico\obj\Debug\Federico.csproj.GenerateReso
 C:\Users\Andrew\Desktop\Federico\Federico\obj\Debug\Federico.exe
 C:\Users\Andrew\Desktop\Federico\Federico\obj\Debug\Federico.pdb
 C:\Users\Andrew\Desktop\Federico\Federico\obj\Debug\Federico.Form1.resources
+C:\Users\Andrew\Documents\GitHub\CSharp\bin\Debug\Federico.exe.config
+C:\Users\Andrew\Documents\GitHub\CSharp\obj\Debug\Federico.exe
+C:\Users\Andrew\Documents\GitHub\CSharp\obj\Debug\Federico.pdb
+C:\Users\Andrew\Documents\GitHub\CSharp\obj\Debug\Federico.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\CSharp\obj\Debug\Federico.Forma.resources
+C:\Users\Andrew\Documents\GitHub\CSharp\obj\Debug\Federico.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\CSharp\obj\Debug\Federico.csproj.GenerateResource.Cache
